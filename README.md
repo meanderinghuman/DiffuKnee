@@ -123,7 +123,7 @@ Outputs Dice/F1 and IoU scores, also writes `eval.txt`.
 
 ---
 
-## 🧾 Configuration example
+## 🧾 Configuration 
 
 ```yaml
 train:
