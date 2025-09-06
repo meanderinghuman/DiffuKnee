@@ -1,0 +1,10 @@
+name: diffuknee
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pip
+  - cudatoolkit=11.7
+  - pip:
+    - -r requirements.txt
