@@ -3,7 +3,7 @@ name = "Knee-Segmentation---Diffusion-Models"
 version = "0.0.1"
 description = "Knee Segmentation using Diffusion Models"
 authors = [
-  { name = "Juraj Peric" },
+  { name = "Siddharth Pal" },
 ]
 
 readme = "README.md"
